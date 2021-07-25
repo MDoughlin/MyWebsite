@@ -1,0 +1,98 @@
+body {
+  background-color: #ffd166;
+}
+
+h1 {
+  font-family: cursive;
+  text-align: center;
+  text-decoration: underline;
+  font-style: italic;
+  font-size: 60px
+
+}
+
+figcaption{ color: #1C4487;
+  text-align:center;
+}
+
+#subheader{
+  color: #ff7f50
+}
+
+img {
+border-radius: 25px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 20px
+}
+
+p{
+padding-top: 15px;
+padding-bottom: 15px;
+border-style: bottom border solid;
+
+
+}
+
+#Fitness{
+  color: #1C4487;
+
+}
+
+video {
+  margin-left: 50vw;
+  transform: translate(-50%)
+}
+
+h3{
+  text-align: center;
+
+}
+
+
+figure {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center
+}
+
+figure figcaption {
+  justify-content: center;
+}
+
+a{
+  color: white
+}
+
+.Change{
+  color: #1C4487;
+
+}
+
+.navbar {
+background-color: #34C9D1;
+width: 100;
+display: flex;
+opacity: 0.9;
+
+}
+
+.nav-links {
+  padding: 0;
+display: flex;
+width: 100%;
+justify-content: center;
+
+}
+
+.nav-item{
+padding: 10px 15px;
+display: inline-block;
+font-size: 20px;
+font-weight: bolder;
+
+
+}
